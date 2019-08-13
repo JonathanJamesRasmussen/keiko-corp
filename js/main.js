@@ -160,8 +160,4 @@ $(document).ready(function(){
 		});
 
 	});
-
-
-
-
 });
